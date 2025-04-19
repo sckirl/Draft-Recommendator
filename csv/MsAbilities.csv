@@ -1,0 +1,55 @@
+﻿abilitiesID;passive;ability1;ability2;ability3
+MM001;Buff;Buff AOE;CC AOE;CC_Immune R_CC
+FR001;Shield;Damage Buff;Buff Cc;Mobility Damage
+Sup001;SpeedUp;Heal AOE;Slow Cc;Attach Shield
+Ass001;Buff Heal;Damage Blink;Aoe Slow;Blink Buff
+FR002;Buff;aoe Slow;blink slow;Summon Morph
+Ass002;Buff;Blink Aoe;Aoe Slow;Burst Blink
+FR003;Buff;CC Aoe;CC Shield;Summon CC
+TK001;Buff;aoe Slow;Charge CC;CC AOE
+FR004;Buff Heal;cc damage;blink debuff;speed up buff
+FR005;Buff;Aoe Blink;Blink buff;CC burst
+FR006;Buff;aoe Slow;CC AOE;CC AOE
+FR007;Debuff Heal;aoe;blink aoe;blink aoe
+FR008;burst;blink cc;burst blink;morph shield
+ME001;shield cc;damage slow;R_CC Blink;CC burst
+ME002;Buff SpeedUp;aoe Slow;aoe Slow;Heal Buff
+ME003;Death_Immune;aoe;cc debuff; burst cc
+FR009;Buff;AoE;CC;Burst Mobility
+TK002;Buff;aoe Slow;CC AOE;Mobility AOE
+FR010;burst;damage;heal aoe; burst cc
+TK003;buff debuff;aoe;mobility cc;cc aoe
+TK004;buff;speedUp aoe;damage cc;burst cc
+FR011;buff;Burst ;shield cc;blink cc
+FR012;damage;aoe slow;blink cc;burst aoe
+MM002;burst;aoe;blink cc;aoe slow
+ME004;buff;aoe speedup;cc aoe;burst speedup
+FR013;buff;speedup buff;cc damage;Burst Blink
+TK005;buff debuff;speedup cc;damage slow;speed up aoe
+ME005;buff shield;shiled buff;aoe buff;burst mobility
+Ass03;buff damage;buff speedup;aoe;burst blink
+Ass004;buff;summon slow;cc speedup;morph speedup
+FR014;buff;cc aoe;blink aoe;burst buff
+ME006;cc damage;aoe slow;aoe;burst buff
+ME007;damage slow;cc damage;aoe;burst
+MM003;buff;aoe debuff;slow aoe;buff blink
+MM004;buff;aoe slow;blink damage;buff burst
+MM005;buff blink;aoe cc;r_cc aoe;burst
+ME008;buff;aoe;blink buff;buff slow
+ME009;buff damage;damage buff;blink cc;burst cc
+MM006;buff;morph buff;blink buff;burst
+MM007;buff;burst buff;aoe slow;burst buff
+MM008;buff;blink buff;cc damage;burst slow
+MM009;buff;burst;mobility buff;burst slow
+MM010;buff;aoe buff;blink summon;burst shield
+MM011;buff;damage slow;blink cc;burst cc
+TK006;shield ;cc aoe;aoe slow;morph cc
+ME010;buff;aoe slow;cc damage;burst blink
+TK007;heal damage;mobility cc;slow buff;cc aoe
+TK008;buff;cc damage;slow;burst cc
+TK009;buff;cc aoe;heal buff;cc
+TK010;buff;aoe slow;blink damage;cc buff
+Sup002;burst ;aoe slow;heal Speedup;cc aoe
+Sup003;buff;heal buff;slow aoe;Heal Buff
+Sup004;buff;buff cc;aoe burst ;death_immune buff
+Sup005;buff;damage heal;cc damage;heal damage
